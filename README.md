@@ -14,3 +14,15 @@ flutter_slidable: ^2.0.0
 
 # UI đẹp
 https://fidev.io/design-challenges/
+
+- Flutter - Wrap text on overflow, like insert ellipsis or fade
+https://stackoverflow.com/questions/44579918/flutter-wrap-text-on-overflow-like-insert-ellipsis-or-fade
+
+- How to create an AppBar with a bottom coloured border in Flutter?
+https://stackoverflow.com/questions/53393267/how-to-create-an-appbar-with-a-bottom-coloured-border-in-flutter
+
+# Generate a generic Privacy Policy and Terms & Conditions for your apps
+https://app-privacy-policy-generator.firebaseapp.com/
+
+# Question Interview
+https://github.com/whatsupcoders/Flutter-Interview-Questions?fbclid=IwAR0RABUIv1JK807cswy22Cld50ztTCaVXYSqZjiapbnohoWO0Y7p7NMozj0
