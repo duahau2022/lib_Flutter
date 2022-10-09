@@ -18,6 +18,7 @@ connectivity_plus (check Internet)
 
 sticky_headers (Header in listview)
 https://pub.dev/packages/better_player
+https://pub.dev/packages/sliding_up_panel
 ```
 
 # UI đẹp
