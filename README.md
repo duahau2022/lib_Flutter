@@ -13,6 +13,8 @@ flutter_slidable: ^2.0.0
 // Custom Keyboard
 https://pub.dev/packages/keyboard_actions
 
+flutter_animate
+connectivity_plus (check Internet)
 ```
 
 # UI đẹp
