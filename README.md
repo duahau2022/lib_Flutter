@@ -17,6 +17,7 @@ flutter_animate
 connectivity_plus (check Internet)
 
 sticky_headers (Header in listview)
+https://pub.dev/packages/better_player
 ```
 
 # UI đẹp
